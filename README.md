@@ -1,4 +1,4 @@
 # odin-recipes
-Plain html-project from the odin-curriculum. Later CSS will be used.
-The goal is to practice the main html-commands and structure a first
+First html-project from the odin-curriculum with some CSS applied to it.
+The goal is to practice the main html- and css-commands and structure a first
 project.
